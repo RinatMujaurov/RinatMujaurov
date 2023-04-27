@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gkR94v1ok56OAkg8o1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="228"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rinat-muzhaurov-14b249240/">
