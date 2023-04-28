@@ -18,11 +18,11 @@
 
 ---
 
-:man_technologist: About me: <br/> I'm a Frontend Developer from Russia
+:man_technologist: <b>About me: <br/><br/> I'm a Frontend Developer from Russia
 - :desktop_computer: I am a beginner web developer
 - :seedling: Exploring Technical Content Writing.
 - :man_artist: In my spare time, I enjoy color grading videos, playing games and traveling.
-- :mailbox: Contact  me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rinat-muzhaurov-14b249240/)
+- :mailbox: Contact  me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rinat-muzhaurov-14b249240/)</b>
 
 ---
 
