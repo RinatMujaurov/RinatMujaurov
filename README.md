@@ -18,7 +18,7 @@
 
 ---
 
-:man_technologist: <b>About me: <br/><br/> I'm a Frontend Developer from Russia
+:man_technologist: <b>About me: <br/></br>I'm a Frontend Developer from Russia
 - :desktop_computer: I am a beginner web developer
 - :seedling: Exploring Technical Content Writing.
 - :man_artist: In my spare time, I enjoy color grading videos, playing games and traveling.
