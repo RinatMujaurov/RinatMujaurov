@@ -40,6 +40,32 @@
 
 ---
 
+## Projects
+
+<div align="center">
+  <a href="https://github.com/RinatMujaurov/how-to-learn" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/how-to-learn.gif?raw=true" title="How to learn" alt="How to learn" width="320"/>
+  </a>
+  
+  <a href="https://github.com/RinatMujaurov/russian-travel" target="_blank">
+    <img src="https://github.com/Tatty13/imgs-for-README/blob/main/russian-travel-upd.jpg?raw=true" title="Russian Travel" alt="Russian Travel" width="320"/>
+  </a>
+  
+  <a href="https://github.com/RinatMujaurov/react-mesto-api-full-gha/tree/main/frontend" target="_blank">
+    <img src="https://hostingkartinok.com/show-image.php?id=e5551949a78dc4a2698cf41fbb4805f5" title="Mesto" alt="Mesto" width="320"/>
+  </a>
+
+  <a href="https://github.com/Tatty13/chatty-ai" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/chatty-ai-main.png" title="Chatty-AI" alt="Chatty-ai" width="320"/>
+  </a>
+
+   <a href="https://github.com/RinatMujaurov/movies-explorer-frontend" target="_blank">
+    <img src="https://hostingkartinok.com/show-image.php?id=6b6e73ceb912bbb85c25e204ca1db2a7" title="Movie Explorer" alt="Movie Explorer" width="320"/>
+  </a>
+</div>
+  
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rinatmujaurov&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinatmujaurov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
