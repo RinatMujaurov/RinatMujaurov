@@ -52,7 +52,7 @@
   </a>
   
   <a href="https://github.com/RinatMujaurov/react-mesto-api-full-gha/tree/main/frontend" target="_blank">
-    <img src="https://hkar.ru/183A3" title="Mesto" alt="Mesto" width="320"/>
+    <img src="https://thumbsnap.com/i/DAsxtPDN.png" title="Mesto" alt="Mesto" width="320"/>
   </a>
 
   <a href="https://github.com/Tatty13/chatty-ai" target="_blank">
@@ -60,7 +60,7 @@
   </a>
 
    <a href="https://github.com/RinatMujaurov/movies-explorer-frontend" target="_blank">
-    <img src="https://hkar.ru/183A8" title="Movie Explorer" alt="Movie Explorer" width="320"/>
+    <img src="https://thumbsnap.com/i/Cd7tvCrk.png" title="Movie Explorer" alt="Movie Explorer" width="320"/>
   </a>
 </div>
   
