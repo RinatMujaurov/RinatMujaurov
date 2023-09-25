@@ -52,15 +52,15 @@
   </a>
   
   <a href="https://github.com/RinatMujaurov/react-mesto-api-full-gha/tree/main/frontend" target="_blank">
-    <img src="https://hostingkartinok.com/show-image.php?id=e5551949a78dc4a2698cf41fbb4805f5" title="Mesto" alt="Mesto" width="320"/>
+    <img src="https://hostingkartinok.com/show-image.php?id=e5551949a78dc4a2698cf41fbb4805f5?raw=true" title="Mesto" alt="Mesto" width="320"/>
   </a>
 
   <a href="https://github.com/Tatty13/chatty-ai" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/chatty-ai-main.png" title="Chatty-AI" alt="Chatty-ai" width="320"/>
+    <img src="https://raw.githubusercontent.com/Tatty13/imgs-for-README/main/chatty-ai-main.png?raw=true" title="Chatty-AI" alt="Chatty-ai" width="320"/>
   </a>
 
    <a href="https://github.com/RinatMujaurov/movies-explorer-frontend" target="_blank">
-    <img src="https://hostingkartinok.com/show-image.php?id=6b6e73ceb912bbb85c25e204ca1db2a7" title="Movie Explorer" alt="Movie Explorer" width="320"/>
+    <img src="https://hostingkartinok.com/show-image.php?id=6b6e73ceb912bbb85c25e204ca1db2a7?raw=true" title="Movie Explorer" alt="Movie Explorer" width="320"/>
   </a>
 </div>
   
